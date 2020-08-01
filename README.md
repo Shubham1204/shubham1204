@@ -30,12 +30,12 @@ Hi there, I'm **Shubham Gupta**, a **Full Stack Developer and Backend enthusiast
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/32667635/89109738-b281f900-d461-11ea-881f-ccf98e10cf09.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/32667635/89109745-bf9ee800-d461-11ea-8136-5c83b200a1d5.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/32667635/89109772-e8bf7880-d461-11ea-886c-eee73506bf3f.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/32667635/89109780-fa088500-d461-11ea-9f22-eb6cbf72c42f.png"></code>
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham1204&show_icons=true&hide_border=true&theme=cobalt)
 ![Shubham's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham1204&layout=compact&show_icons=true&hide_border=true&theme=cobalt)
