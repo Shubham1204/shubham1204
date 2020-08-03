@@ -26,7 +26,7 @@ Hi there, I'm **Shubham Gupta**, a **Full Stack Developer and Backend enthusiast
 - 💼 I’m pursuing a Bachelor's degree in Computer Science Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via shubhamgupta1999@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae]() to get more info.
+<!-- - 📝 See my [Curriculum Vitae]() to get more info. -->
 
 **Languages and Tools:**  
 
