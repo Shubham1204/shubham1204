@@ -28,6 +28,8 @@ Hi there, I'm **Shubham Gupta**, a **Full Stack Developer and Backend enthusiast
 - 📫 Please email via shubhamgupta1999@gmail.com to reach me.
 <!-- - 📝 See my [Curriculum Vitae]() to get more info. -->
 
+https://drive.google.com/file/d/1FPqyzMC92b1AIxs1dRBXBkdg8zBXYSLV/view?usp=sharing
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/32667635/89109738-b281f900-d461-11ea-881f-ccf98e10cf09.png"></code>
