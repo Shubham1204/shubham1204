@@ -39,7 +39,7 @@ Hi there, I'm **Shubham Gupta**, a **Full Stack Developer and Backend enthusiast
 <code><img height="20" src="https://user-images.githubusercontent.com/32667635/89109780-fa088500-d461-11ea-9f22-eb6cbf72c42f.png"></code>
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham1204&show_icons=true&hide_border=true&theme=cobalt)
-![Shubham's github Programming stats](https://github-readme-stats.vercel.app/api/langs/?username=shubham1204&layout=compact&show_icons=true&hide_border=true&theme=cobalt)
+![Shubham's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham1204&layout=compact&show_icons=true&hide_border=true&theme=cobalt)
 
 <br />
 
