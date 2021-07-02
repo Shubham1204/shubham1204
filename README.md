@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Shubham Gupta**, a **Full Stack Developer and Backend enthusiast** 🚀 from New Delhi, India. 
+Hi there, I'm **Shubham Gupta**, a **Backend Developer and Full Stack enthusiast** 🚀 from New Delhi, India. 
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif" /> 
   
