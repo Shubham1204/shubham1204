@@ -45,7 +45,7 @@ Hi there, I'm **Shubham Gupta**, a **Backend Developer and Full Stack enthusiast
 
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=shubham1204" />
+    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=shubham1204.shubham1204" />
 </p>
 <br />
 <br />
